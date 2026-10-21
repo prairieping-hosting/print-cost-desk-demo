@@ -48,7 +48,8 @@ do not post wallet secrets, payment access tokens or customer records in issues.
 [Download the free preview ZIP](downloads/Print-Cost-Desk-Free-Preview.zip?raw=1). Extract it and open index.html. The simplified preview excludes selling fees, taxes, failure allowances and unentered overhead.
 
 - [Separating batch setup from per-item labor](guides/batch-labor.md)
+- [Keeping offline quote records recoverable](guides/quote-backups.md)
 
-The optional full offline quote/workbook kit is $19 once, payable in BTC, native ETH or XMR. [Try the hosted calculator](https://print-cost-desk-crypto.blackup223.chatgpt.site/demo?utm_source=github) before buying. Chromium was tested; no subscription or paid AI key is required. Original code/content created with AI assistance.
+The optional full offline quote/workbook kit is $19 once. Current payment options are shown on the storefront. [Try the hosted calculator](https://print-cost-desk-crypto.blackup223.chatgpt.site/demo?utm_source=github) before buying. Chromium was tested; no subscription or paid AI key is required. Original code/content created with AI assistance.
 
 <!-- /PRINT-COST-AUTONOMY -->
